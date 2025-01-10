@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XnBdw+syIyszLqtKbPjdCT7TN6qPtMAAHNMpfcqEuZg=",
+  "Source": "Endpoint-EightToTen",
+  "BasePath": "_content/Endpoint-EightToTen",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
